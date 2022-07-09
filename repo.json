@@ -6,15 +6,15 @@
 		"Description": "Whitelist RP speech",
 		"Tags": [ "subspeak", "whitelist" ],
 		"RepoUrl": "https://github.com/Excelzn/Subspeak",
-		"AssemblyVersion": "1.0.1",
+		"AssemblyVersion": "1.0.2",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 6,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"DownloadCount": 0,
-		"LastUpdate": 1657336193,
-		"DownloadLinkInstall": "https://github.com/Excelzn/Subspeak/releases/download/subspeak-v1.0.1/1.0.1.zip",
-		"DownloadLinkTesting": "https://github.com/Excelzn/Subspeak/releases/download/subspeak-v1.0.1/1.0.1.zip",
-		"DownloadLinkUpdate": "https://github.com/Excelzn/Subspeak/releases/download/subspeak-v1.0.1/1.0.1.zip"
+		"LastUpdate": 1657336775,
+		"DownloadLinkInstall": "https://github.com/Excelzn/Subspeak/releases/download/subspeak-v1.0.2/latest.zip",
+		"DownloadLinkTesting": "https://github.com/Excelzn/Subspeak/releases/download/subspeak-v1.0.2/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/Excelzn/Subspeak/releases/download/subspeak-v1.0.2/latest.zip"
 	}
 ]
